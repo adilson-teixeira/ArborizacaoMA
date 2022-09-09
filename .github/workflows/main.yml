@@ -1,4 +1,4 @@
-name: CI
+name: Integração Contìnua
 on:
   push:
     branches: [ master ]
